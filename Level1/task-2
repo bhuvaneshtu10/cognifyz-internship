@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Task-1</title>
+    </head>
+    <body>
+        <h1 style="color: white; background: linear-gradient(to right,gray,cyan);">Welcome to my frontend internship website</h1>
+        <p style="color: white; background: linear-gradient(to right, gray, cyan);">This is my Task-1</p>
+    </body>
+</html>
